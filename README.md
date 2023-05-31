@@ -1,0 +1,2 @@
+# FuXi
+FuXi Study App
